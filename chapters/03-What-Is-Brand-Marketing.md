@@ -1,26 +1,15 @@
-What is this brand marketing thing?
+# What Is Brand Marketing?
 
-- What it is
-	- Tools
-		- Make sure to point out that brand marketing tends to ride on top of the "platform" of existing institutions. (I feel this but don't know how to prove it)
-	- Genre expectations
-- Why you probably can't use brand marketing during the bootstrapping phase
-	- Expense
-	- Lead/build-up time vs. need for quick revenue
-	- Potential lack of institutional availability or institutional acceptance/support (outsider vs. insider status)
-		- At some point, reputation becomes a trojan horse for a disruptive message, or a message in search of an audience. But before you have that reputation, what institutions will give you a platform? If none, then you need direct response marketing rather than brand marketing, at least until you bootstrap your reputation.
+Brand marketing is art with a logo on it. Not the kind of art you'd find in a gallery. Instead, brand marketing is the kind of art that is a gift or a challenge to a culture.
 
-----
+A culture is a group of people with a shared identity. Seth Godin might call them a tribe.
 
-# [PMC Daily Consulting Insight] The tools and genre expectations of brand marketing
+We're going to look at brand marketing through the lens of tools and genre expectations, and as we do you'll notice that brand marketing has fewer of both than direct response marketing. That is because -- like all art -- brand marketing is as much about the feel and nuance of how it's done as it is about specific objective qualities.
 
-I'm re-integrating some direct response marketing stuff in my business. This email series explains why and how.
 
-----
+## What is brand marketing?
 
-What is brand marketing?
-
-Especially for consultants like us, what the heck actually _is_ brand marketing?
+Especially for consultants like us, what the heck actually _is_
 
 If you've ever been through an airport terminal -- at least here in the US -- you've certainly seen brand marketing from a big company like Accenture. You've seen those trying-really-hard-to-be-interesting posters. 
 
@@ -40,9 +29,9 @@ None of this stuff is what brand marketing for small consultancies looks like. B
 
 Brand marketing for small-size consultancies is art with a logo on it. It is expensive relative to direct response marketing. It is potentially inefficient relative to direct response marketing. But it is not a Superbowl commercial. And -- critically -- it is not in tension with the expectations around expertise.
 
-## The tools of brand marketing for consultants
+## Tools
 
-As with direct response marketing, brand marketing tends to make use of a certain set of tools. As a quick reminder, the tools of direct response marketing are: Clear calls to action, forms, gated content assets, low-priced product(s) as segmentation mechanism, events as a front-end to promoting something, and email sequences. (fn)
+As with direct response marketing, brand marketing tends to make use of a certain set of tools. As a quick reminder, the tools of direct response marketing are: Clear calls to action, forms, gated content assets, low-priced product(s) as segmentation mechanism, events as a front-end to promoting something, and email sequences. [^1] {TODO: add the stragglers}
 
 Here are the tools of brand marketing:
 
@@ -51,9 +40,8 @@ Here are the tools of brand marketing:
 Have any of these lodged in your memory?
 
 - A remarkable TED talk.
-- A commercial, some part of which became conversational currency used among your friends (the <Budweiser Whassup? campaign> comes to mind here -- and skimming the <"In culture" section of the Wikipedia article> on that campaign is fascinating and relevant).
+- A commercial, some part of which became conversational currency used among your friends (the \<Budweiser Whassup? campaign\> comes to mind here -- and skimming the \<"In culture" section of the Wikipedia article\> on that campaign is fascinating and relevant).
 - Something else you didn't pay for, but created memorable value for you.
-    
 This is how brand marketing functions as a gift. It gives more than it takes.
 
 Direct response marketing "gifts" -- things like lead magnets and content upgrades and "free bonuses" bundled with info products -- are not given as freely. Calling them gifts, in fact, is pretty disingenuous.
@@ -99,6 +87,8 @@ To translate this to the small consultant word, consider this: you're going to g
 
 You can't know this with complete certainty ahead of time. So your talk at that conference is somewhat "un-targeted" compared to direct response marketing.
 
+@TODO: Make sure to point out that brand marketing tends to ride on top of the "platform" of existing institutions. (I feel this but don't know how to prove it)
+
 ## The genre expectations of brand marketing
 
 Just like direct response marketing has a sort of genre "feel" to it, so does brand marketing.
@@ -109,7 +99,7 @@ Brand marketing works best when it's done in a spirit of generosity. This is not
 
 But at the same time, brand marketing exudes a feeling of "Company X is doing so well that it can afford to give back, and so the marketing that Company X engages in can be less mercenary and more generous in nature."
 
-###	Connection or contribution to the culture
+### Connection or contribution to the culture
 
 Brand marketing is culturally aware. That's how it gives gifts! It's aware of what would and would not be valued by the culture, and so quite often the gifts that brand marketing gives are connected to what's happening _now_ in the culture. That's what makes those gifts relevant.
 
@@ -129,11 +119,11 @@ The "Be all you can be" campaign _hints at_ some of these issues, but it does so
 
 Brand marketing tends to shift the focus away from problems and towards aspirations or solutions.
 
-###	Action flows from affinity for the brand or importance of the message
+### Action flows from affinity for the brand or importance of the message
 
 Brand marketing will often _not_ make use of CTAs at all, and will generally avoid forceful or overly-specific CTAs.
 
-CTAs may be present (ex: the "Be all you can be" campaign has a phone number at the end), but they are generally quite "soft" or "quiet" in tone. A brief scroll through this Google Images search for "cta button" will give you a good idea of what a soft or quiet CTA is _not_: <https://www.google.com/search?q=cta+button&client=safari&hl=en-us&source=lnms&tbm=isch&sa=X&ved=0ahUKEwis2\_KS\_ebkAhUUFjQIHWjvCkkQ\_AUIESgB&biw=1366&bih=866&dpr=2>
+CTAs may be present (ex: the "Be all you can be" campaign has a phone number at the end), but they are generally quite "soft" or "quiet" in tone. A brief scroll through this Google Images search for "cta button" will give you a good idea of what a soft or quiet CTA is _not_: [https://www.google.com/search?q=cta+button&client=safari&hl=en-us&source=lnms&tbm=isch&sa=X&ved=0ahUKEwis2\_KS\_ebkAhUUFjQIHWjvCkkQ\_AUIESgB&biw=1366&bih=866&dpr=2][1]
 
 So how does a brand marketing message or campaign lead to the economic outcome we desire? In other words, how does it lead to the right people buying our services?
 
@@ -162,3 +152,14 @@ I don't mean to portray direct response vs brand marketing as a binary either/or
 
 As with everything, you need to evaluate brand vs. direct response marketing in the context of your business, its maturity, and what your clients will and won't accept when it comes to marketing. The model I'm working up to is this: "Probably start out with direct response marketing -- using a tone that's calibrated to your audience -- until you can 'upgrade' to brand marketing tools. You'll need to complete this upgrade in order to resolve the underlying tension between expertise and direct response marketing, so upgrade as soon as possible but not prematurely."
 
+@TODO
+
+- Why you probably can't use brand marketing during the bootstrapping phase
+	- Expense
+	- Lead/build-up time vs. need for quick revenue
+	- Potential lack of institutional availability or institutional acceptance/support (outsider vs. insider status)
+		- At some point, reputation becomes a trojan horse for a disruptive message, or a message in search of an audience. But before you have that reputation, what institutions will give you a platform? If none, then you need direct response marketing rather than brand marketing, at least until you bootstrap your reputation.
+
+[^1]:	.
+
+[1]:	https://www.google.com/search?q=cta+button&client=safari&hl=en-us&source=lnms&tbm=isch&sa=X&ved=0ahUKEwis2%5C_KS%5C_ebkAhUUFjQIHWjvCkkQ%5C_AUIESgB&biw=1366&bih=866&dpr=2
