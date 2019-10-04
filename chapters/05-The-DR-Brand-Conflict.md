@@ -1,0 +1,21 @@
+Why does DR conflict with world class expertise and brand doesn't?
+
+- Genre expectations around expertise
+	- I think there's this deep genre expectation around experts. They 1) do important stuff that takes a lot of experience to do well or 2) solve new important mysteries. For #1, they hook into an existing river of demand and existing (institutionally-enabled) discovery mechanisms, and therefore need to do basically no marketing. For #2, they start doing the work themselves and the "marketing" is sharing what they've done, others getting excited about that and investing, and that self-perpetuates the work.
+		- Assumption: a heavy investment in expertise is driven by an important+urgent market need, therefore the expert need not beg for work because the natural dynamics of this situation supply them with plenty of high-paid work.
+		- Assumption: there will a self-evident importance of the work. A sufficiently aware prospect will get exposed to the work and naturally respond because the importance becomes self-evident to them.
+- Signals
+	- DR signals a need to sell something we wouldn't already buy on our own. This reads as unimportance (of the product) or neediness (of the seller). DR suggests we are manufacturing an artificial sort of demand.
+	- DR signals short term/transactional (hat tip Frank for surfacing this). This becomes part of the genre expectations around DR. Do we want short term/transactional expertise? Sometimes, but often not.
+- Practical issues
+	- The timing, volume, and cadence with which DR is often delivered is at odds with the way senior managers manage their time and attention. DR timeline expectations are also often out of step with the reality of the kind of people who would be economic buyers of world-class expertise.
+	- It's just (maybe?) more efficient (not just from a time perspective, but a conservation of status perspective) for a senior manager to get information for a decision by delegating the research, getting referrals from peers, or attending an event
+- A heavy, high-pressure DR response tone amplifies all of these conflicts between DR and the promise of expertise
+- Why brand doesn't conflict
+	- A posture of (perhaps extreme) generosity is more compatible with the genre expectations around expertise
+	- A mode of sharing that uses more "expensive media" (talks involving travel, other hook-ins to institutions, etc.) is more compatible with the genre expectations around expertise.
+	- Builds trust faster
+		- This might be more of a happy coincidence between the tools of brand marketing and lead gen approaches with high trust velocity than an inherent trust in brand marketing in general.
+- This troublesome gap: stuff that's important, but the awareness isn't there. You have to create a bridge from the existing awareness to action on something new/untested/unknown. That's Seth Godin's "changing the culture" style marketing. The institutional support won't be there for this, so it suggests you use DR tools because those are often the default toolset for "outsiders" operating without institutional support. This doesn't mean brand marketing can't work here, it's just harder since you need to at least partially leverage institutions (ex: convince a conf organizer to let you give a different kind of talk).
+	- How do you navigate this gap?
+		- Not sure I have an answer for this! :(
