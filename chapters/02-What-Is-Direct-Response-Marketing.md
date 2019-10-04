@@ -1,55 +1,74 @@
-What is DR?
+# What is Direct Response Marketing?
 
-@TODO:
+Direct response marketing is a button or form with a funnel behind it.
 
-- Add these tools:
-    - Long copy/sales pages
-    - Money-back guarantees as first-order feature
-    
+It's useful to think about direct response marketing as a set of concrete _tools_, and as a basket of ideas and feelings, which I'll discuss as the _genre expectations_ around direct response marketing. We'll use that same lens to examine brand marketing.
 
-## The tools
+## The Tools
 
-This won't be an exhaustive list, but if you see any of these tools in use, you're seeing some form of direct response marketing in action:
+If you see any of these tools in use, you're seeing some form of direct response marketing in action:
 
-- A clear **call to action**. Ex: "To get the free bonus, send me your Amazon receipt showing that you've pre-purchased 10 or more copies of my book."
-- A low-friction **form** used to collect signups or opt-ins. Ex: "To receive this free email course, tell me what email address to send it to."
-- A **gated content asset**. Ex: "To download this whitepaper, please tell us about your company demographics and needs."
-- A **low-priced product** used to measure buying intent and collect contact information. Ex: "Buy this $7 ebook and learn how to get rid of painful corns and callouses." 
-- An **event** used to collect contact information that will later be used to promote something. Ex: "Attend this free webinar and learn how to $THING."
-- A **sequence of emails** that describes some pain or problem, spends time vivifying that pain/problem, and pitches a solution to that pain/problem.
+### A clear _call to action_
 
-Again, that's not an exhaustive list, but it's one that I hope helps you recognize direct response marketing in action. While we're on the note of tools, we may as well look at the genre expectations of direct response marketing.
+Ex: "To get the free bonus, send me your Amazon receipt showing that you've pre-purchased 10 or more copies of my book."
+
+### A low-friction _form_ used to collect signups or opt-ins. 
+
+Ex: "To receive this free email course, tell me what email address to send it to."
+
+### A _gated content asset_\ 
+
+Ex: "To download this whitepaper, please tell us about your company demographics and needs."
+
+### A _low-priced product_ used to measure buying intent and collect contact information. 
+
+Ex: "Buy this $7 ebook and learn how to get rid of painful corns and callouses." 
+
+### An _event_ used to collect contact information that will later be used to promote something. 
+
+Ex: "Attend this free webinar and learn how to $THING."
+
+### A **sequence of emails** that describes some pain or problem, spends time vivifying that pain/problem, and pitches a solution to that pain/problem.
+
+### _Long form_ sales copy
+
+x
+
+### _Moneyback guarantees_
+
+Lots of products and services include a moneyback guarantee. When you see a moneyback guarantee listed as a _primary feature_ of the product/services, you're probably seeing direct response marketing in action.
+
+Again, that's not an exhaustive list, but it's one that I hope helps you recognize direct response marketing in action. Onward to the genre expectations.
 
 ## Genre expectations
 
 If we think of direct response marketing as a _genre_, then there are -- as with any genre -- certain expectations about how the form works:
 
-- The ethos of direct response marketing is creating a 1:1 connection with leads from the very first conversion event, combined with collecting enough information to enable highly efficient marketing to that lead.
-- Direct response marketing will intentionally or accidentally collect data -- the more individualized and complete the better -- about those being marketing to. As I mentioned last week, this is why the Internet is inherently a direct response medium.
-- The goal of direct response marketing is to _get a response_ from those we are marketing to. This is the most fundamental, defining aspect of the genre. The "response" is not necessarily a sale. It might be some other kind of action: filling out a form, clicking a button, opening an email, attending an event, joining a waiting list, or the like.
-- Finally -- critically! -- direct response marketing is focused on _problems_. This is not always the case, but very often the direct response marketing relationship begins with a conversion event (someone filling out a form, for example) that's focused on helping that person solve a problem.
+### 1:1 Connection
+
+The ethos of direct response marketing is creating a 1:1 connection with leads from the very first conversion event, combined with collecting enough information to enable highly efficient marketing to that lead.
+
+### Data
+
+Direct response marketing will intentionally or accidentally collect data -- the more individualized and complete the better -- about those being marketing to. As I mentioned last week, this is why the Internet is inherently a direct response medium.
+
+### Goal
+
+The goal of direct response marketing is to _get a response_ from those we are marketing to. This is the most fundamental, defining aspect of the genre. The "response" is not necessarily a sale. It might be some other kind of action: filling out a form, clicking a button, opening an email, attending an event, joining a waiting list, or the like.
+
+@TODO: expand on the "moving people through a funnel" idea.
+
+### Problems are markets
+
+Finally -- critically! -- direct response marketing is focused on _problems_. This is not always the case, but very often the direct response marketing relationship begins with a conversion event (someone filling out a form, for example) that's focused on helping that person solve a problem.
 
 ## Tone
 
-I have written some things I am not proud of.
+The genre of heavy metal music prepares you to hear distorted electric guitars, heavy drumming, and screamed vocals. There is a fun sub-genre of novelty heavy metal music. In that sub-genre, you have groups like TK:group-name playing AC-DC songs on guitar, mandolin, banjo, and fiddle in a bluegrass style. The difference is not the notes being played, it's the enire *tone* of the resulting music. 
 
-Like I said before, I used to be an uncritical direct response fanboy. I got intoxicated with its ability to efficiently move the needle.
+A big part of the genre expectations around direct response marketing is the tone used in the marketing. I think of these like the "tone knobs" on an electric guitar amplifier.
 
-As a result, I can sorta of understand shit like this:
-
-(img)
-
-At this point in the article I was going to fish out some old copy from the archive of direct response stuff I've written over the years, and then create a little quiz to see if you could distinguish my copy from that of some genuine sleazeballs. But that got cumbersome to find examples, and felt a little gimmicky.
-
-So let me just point you to one thing I've written -- that's currently still in place! -- that I'm not 100% proud of and plan to rewrite posthaste. It'll serve as a good illustration for the tone discussion:
-
-(img)
-
-(img)
-
-In the above screencaps from <http://thepositioningmanual.com>, I've highlighted places where I yanked on the tone knob.
-
-There are like, a million ways the tone of direct response marketing can be good, crappy, or used as a lever to achieve the goals of the marketing, which is really one singular goal: to get a desired response -- a button click, a form filled out, or some other action taken. So I won't be able to, nor should I, cover every single "tone knob" you can manipulate in direct response marketing. That said, many of you -- me included! -- benefit from using a certain amount of direct response marketing in our businesses. (fn) Direct response is, in many contexts, a useful tool. Since it's a mere tool, it's all about _how we use it_. And tone is a big part of that "how we use it" question. So I do want to talk about some of the more common direct response tone knobs.
+There are like, a million ways the tone of direct response marketing can be good, crappy, or used as a lever to achieve the goals of the marketing, which is really one singular goal: to get a desired response -- a button click, a form filled out, or some other action taken. So I won't be able to, nor should I, cover every single "tone knob" you can manipulate in direct response marketing. That said, many of you -- me included! -- benefit from using a certain amount of direct response marketing in our businesses. [^1] Direct response is, in many contexts, a useful tool. Since it's a mere tool, it's all about _how we use it_. And tone is a big part of that "how we use it" question. So I do want to talk about some of the more common direct response tone knobs.
 
 ### Urgency
 
@@ -66,9 +85,9 @@ As always, what is "intense" is audience-dependent.
 
 One of my favorite moments in The Simpsons illustrates:
 
-(img)
+\(img)
 
-Watch the whole thing for the full effect: <https://www.youtube.com/watch?v=jiF2PgHZNyI>
+Watch the whole thing for the full effect: [https://www.youtube.com/watch?v=jiF2PgHZNyI][1]
 
 In one culture, the loud "intense" voices read as anger. In another, they don't. I know the Simpsons example is exaggerated for comedic effect, but it illustrates a true principle.
 
@@ -92,7 +111,7 @@ https://youtu.be/qM4zMofsI7w
 
 (This video had me doubled over in laughter. It's incredible, and I think it even has a brief cameo from Joe Biden. ;) )
 
-One of the ways pain gets amplified in direct response marketing is to focus on the _emotional_ aspects of the pain. Direct response copywriters will tell you that _all decisions_ are emotional first, backed up by a post hoc logical process. That may be true. (fn) But the problem is not how decisions are _actually_ made, the problem is how we believe we make decisions. And if your audience fancies themselves to be logical thinkers, a heavily emotional tone in direct response marketing almost certainly will be problematic.
+One of the ways pain gets amplified in direct response marketing is to focus on the _emotional_ aspects of the pain. Direct response copywriters will tell you that _all decisions_ are emotional first, backed up by a post hoc logical process. That may be true. [^2] But the problem is not how decisions are _actually_ made, the problem is how we believe we make decisions. And if your audience fancies themselves to be logical thinkers, a heavily emotional tone in direct response marketing almost certainly will be problematic.
 
 ### Curiosity
 
@@ -135,3 +154,13 @@ There are just soooo many ways persuasion can be used well or slightly misused b
 Different outcomes here are based on 1) whether you are placing your client's best interest equal to or ahead of yours, 2) whether you understand the kind of tone that your clients will and won't accept in marketing, and finally (and somewhat speculatively) the time horizon over which you are thinking (desire for impact over a short or long term).
 
 My guidance on tone can be boiled down to this test, for which I have Jonathan Stark to thank: "Would you do it that way if your client was a beloved family member?"
+
+## Summary
+
+@TODO
+
+[^1]:	.
+
+[^2]:	.
+
+[1]:	https://www.youtube.com/watch?v=jiF2PgHZNyI
