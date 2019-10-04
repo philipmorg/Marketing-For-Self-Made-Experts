@@ -1,5 +1,12 @@
 What is DR?
 
+@TODO:
+
+- Add these tools:
+    - Long copy/sales pages
+    - Money-back guarantees as first-order feature
+    
+
 ## The tools
 
 This won't be an exhaustive list, but if you see any of these tools in use, you're seeing some form of direct response marketing in action:
