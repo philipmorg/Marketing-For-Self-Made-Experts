@@ -42,7 +42,7 @@ Have any of these lodged in your memory?
 - A remarkable TED talk.
 - A commercial, some part of which became conversational currency used among your friends (the \<Budweiser Whassup? campaign\> comes to mind here -- and skimming the \<"In culture" section of the Wikipedia article\> on that campaign is fascinating and relevant).
 - Something else you didn't pay for, but created memorable value for you.
-This is how brand marketing functions as a gift. It gives more than it takes.
+This is how brand marketing functions as a gift. It gives more than it takes. 
 
 Direct response marketing "gifts" -- things like lead magnets and content upgrades and "free bonuses" bundled with info products -- are not given as freely. Calling them gifts, in fact, is pretty disingenuous.
 
