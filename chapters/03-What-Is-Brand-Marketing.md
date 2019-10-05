@@ -72,7 +72,7 @@ In using the tools of reach and repetition, brand marketing may sacrifice focus.
 
 A quick example: imagine that airlines made a practice of trying to identify passengers that are flying for business purposes. So maybe they segment their customer list, and look for those flying business class and/or those whose ticket seems to have been purchased by a business, and identify those folks as likely business travelers. (This doesn't sound like a farfetched a use of "data exhaust", does it?)
 
-Accenture wants to reach business travelers. They have a choice. a) They can buy display ad space to have their brand marketing ads hung on the walls of airports. These posters and murals will certainly be seen by some business travelers and a lot of non-business travelers. Or, b) they can rent a list of business travelers from the airlines and directly contact those people, likely reaching a much higher percentage of business travelers. This is brand vs. direct response marketing. [^2]
+Accenture wants to reach business travelers. They have a choice. a) They can buy display ad space to have their brand marketing ads hung on the walls of airports. These posters and murals will certainly be seen by some business travelers and a lot of non-business travelers. Or, b) they can rent a list of business travelers from the airlines and directly contact those people, likely reaching a much higher percentage of business travelers. This is brand vs. direct response marketing. [^Although I'd argue the posters I've seen on airport walls aren't much of a gift and so aren't very good brand marketing.]
 
 This is an interesting example because not every person who walks through an airport could possibly be an Accenture client. So by going with the posters rather than the rented list, Accenture is trading focus for reach. With many brands (shoe brands, for example), this trade makes sense. Every human is a potential shoe brand customer, so every human having positive feelings about Nike's products makes some kind of sense for Nike. 
 
@@ -132,7 +132,7 @@ Brand marketing tends to shift the focus away from problems and towards aspirati
 
 Brand marketing will often _not_ make use of CTAs at all, and will generally avoid forceful or overly-specific CTAs.
 
-CTAs may be present (ex: the "Be all you can be" campaign has a phone number at the end), but they are generally quite "soft" or "quiet" in tone. A brief scroll through this Google Images search for "cta button" will give you a good idea of what a soft or quiet CTA is _not_: [https://www.google.com/search?q=cta+button&client=safari&hl=en-us&source=lnms&tbm=isch&sa=X&ved=0ahUKEwis2\_KS\_ebkAhUUFjQIHWjvCkkQ\_AUIESgB&biw=1366&bih=866&dpr=2][1]
+CTAs may be present (ex: the "Be all you can be" campaign has a phone number at the end), but they are generally quite "soft" or "quiet" in tone. A brief scroll through this Google Images search for "cta button" will give you a good idea of what a soft or quiet CTA is _not_: <https://www.google.com/search?q=cta+button&client=safari&hl=en-us&source=lnms&tbm=isch&sa=X&ved=0ahUKEwis2\_KS\_ebkAhUUFjQIHWjvCkkQ\_AUIESgB&biw=1366&bih=866&dpr=2>
 
 So how does a brand marketing message or campaign lead to the economic outcome we desire? In other words, how does it lead to the right people buying our services?
 
@@ -173,6 +173,6 @@ As with everything, you need to evaluate brand vs. direct response marketing in 
 
 [^1]:	.
 
-[^2]:	Although I'd argue the posters I've seen on airport walls aren't much of a gift and so aren't very good brand marketing
+
 
 [1]:	https://www.google.com/search?q=cta+button&client=safari&hl=en-us&source=lnms&tbm=isch&sa=X&ved=0ahUKEwis2%5C_KS%5C_ebkAhUUFjQIHWjvCkkQ%5C_AUIESgB&biw=1366&bih=866&dpr=2

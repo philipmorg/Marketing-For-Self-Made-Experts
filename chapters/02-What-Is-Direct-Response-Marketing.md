@@ -16,7 +16,7 @@ Ex: "To get the free bonus, send me your Amazon receipt showing that you've pre-
 
 Ex: "To receive this free email course, tell me what email address to send it to."
 
-### A _gated content asset_\ 
+### A _gated content asset_ 
 
 Ex: "To download this whitepaper, please tell us about your company demographics and needs."
 

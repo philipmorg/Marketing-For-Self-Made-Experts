@@ -21,7 +21,7 @@ This book is for self-made experts. We're the ones who will need to cross a chas
 I'm going to help you fully understand brand and direct response marketing shortly. Right now, let's start with some definitions:
 
 - **Brand marketing**: art with a logo on it.
-- **Direct response marketing **: A button or form with a funnel behind it.
+- **Direct response marketing**: A button or form with a funnel behind it.
 
 These definitions are constructed in a playful way to make them memorable and sticky, but they also express useful, serious ideas.
 

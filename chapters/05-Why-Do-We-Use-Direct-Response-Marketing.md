@@ -1,14 +1,24 @@
 # Why Do We Use Direct Response Marketing?
 
-We haven't explored brand marketing yet, nor have I laid out the conflict between expertise and direct response marketing.
+If direct response marketing eventually conflicts with our perceived expertise, why do we use it at all?
 
-
-Why do we use it, especially if it eventually won't serve us?
+## Bootstrapping
 
 - The bootstrapping phase
-- The efficiency
+
+## Efficiency
+
+The efficiency
+
+## Ease of use
 - The ease of use
+
+## Side doors
+
 - The path "in" for an outsider
-- The noise
+
+## Default status
+
+The noise
 	- The marketing advice for small businesses leans DR because of the aforementioned reasons.
 	- Brand marketing advice leans decidedly bigco because it tends to be less thrifty and scrappy

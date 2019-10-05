@@ -14,7 +14,7 @@ For #2, the expert starts doing the work themselves and the "marketing" is shari
 
 There's an assumption at play here: experts would not invest in their expertise if there was not an important market need supplying them with plenty of demand for their expertise. Said more simply: saying you're an expert implies there's lucrative demand for your expertise.
 
-This assumption is why some who are *not* genuine experts say that they are experts. They are hoping to attract the kind of opportunity that genuine experts enjoy. The problem happens when these folks use direct response marketing. Their self-labeling as an expert sends one signal ("I have lots of opportunity") while their marketing sends a different signal ("I need to use inexpensive, efficient marketing to capture every ounce of opportunity that might be out there.")
+This assumption is why some who are *not* genuine experts *say* that they are experts. They are hoping to attract the kind of opportunity that genuine experts enjoy. The problem happens when these folks use direct response marketing. Their self-labeling as an expert sends one signal ("I have lots of opportunity") while their marketing sends a different signal ("I need to use inexpensive, efficient marketing to capture every ounce of opportunity that might be out there.")
 
 A second assumption is at play in the genre expectations around expertise: the importance of the expertise is self-evident. Prospects will get exposed to the work and naturally respond because the importance becomes self-evident to them.
 
