@@ -1,12 +1,39 @@
-Why does DR conflict with world class expertise and brand doesn't?
+# The Conflict Between Brand & Direct Response Marketing
 
-- Genre expectations around expertise
-	- I think there's this deep genre expectation around experts. They 1) do important stuff that takes a lot of experience to do well or 2) solve new important mysteries. For #1, they hook into an existing river of demand and existing (institutionally-enabled) discovery mechanisms, and therefore need to do basically no marketing. For #2, they start doing the work themselves and the "marketing" is sharing what they've done, others getting excited about that and investing, and that self-perpetuates the work.
-		- Assumption: a heavy investment in expertise is driven by an important+urgent market need, therefore the expert need not beg for work because the natural dynamics of this situation supply them with plenty of high-paid work.
-		- Assumption: there will a self-evident importance of the work. A sufficiently aware prospect will get exposed to the work and naturally respond because the importance becomes self-evident to them.
-- Signals
-	- DR signals a need to sell something we wouldn't already buy on our own. This reads as unimportance (of the product) or neediness (of the seller). DR suggests we are manufacturing an artificial sort of demand.
-	- DR signals short term/transactional (hat tip Frank for surfacing this). This becomes part of the genre expectations around DR. Do we want short term/transactional expertise? Sometimes, but often not.
+The genre expectations around valuable expertise conflict with direct response marketing. In fact, if you're a genuine expert who uses direct response marketing, you can undermine the perceived value of your own expertise. Brand marketing is largely free from these kinds of conflicts.
+
+Let's explore why this is.
+
+## Expertise and Genre Expectations
+
+Our perception of experts is that they 1) do important stuff that takes a lot of experience to do well or they 2) solve new important mysteries. Or both.
+
+In the case of #1, their marketing involves integrating with an existing river of demand and existing institutionally-enabled discovery mechanisms. [^The most currently well-known institutionally-enabled discovery mechanism might be TED talks. TED is the institution, and their audience's respect for TED's disciplined curation makes TED a useful discovery mechanism for interesting or compelling ideas.]
+
+For #2, the expert starts doing the work themselves and the "marketing" is sharing what they've done with others who get excited about the expert's discoveries. This excitement leads to some form of investment[^The investment could be consulting work, direct investment, or other forms of monetizing the expert's work of innovation or discovery.] that sustains the expert's work.
+
+There's an assumption at play here: experts would not invest in their expertise if there was not an important market need supplying them with plenty of demand for their expertise. Said more simply: saying you're an expert implies there's lucrative demand for your expertise.
+
+This assumption is why some who are *not* genuine experts say that they are experts. They are hoping to attract the kind of opportunity that genuine experts enjoy. The problem happens when these folks use direct response marketing. Their self-labeling as an expert sends one signal ("I have lots of opportunity") while their marketing sends a different signal ("I need to use inexpensive, efficient marketing to capture every ounce of opportunity that might be out there.")
+
+A second assumption is at play in the genre expectations around expertise: the importance of the expertise is self-evident. Prospects will get exposed to the work and naturally respond because the importance becomes self-evident to them.
+
+This genre assumption sets up another conflict. If the supposed expert is using a form of marketing that works very hard to highlight problems and pains and to portray the expert as a solution for those problems/pains, are they *really* an expert? In other words, if they were really an expert, wouldn't it be obvious that they are?
+
+## Signals
+
+Direct response marketing signals a need to sell something we wouldn't already buy on our own. This reads as unimportance (of the product) or neediness (of the seller). 
+
+Direct response marketing suggests we are manufacturing an artificial sort of demand.
+
+Direct response marketing also signals that the business is focused on short term transactional relationships [^Hat tip Frank McClung for surfacing this in a discussion]. Direct response marketing often uses a tone of pressure, urgency, and even fear to push the recipient towards responding or buying. 
+
+Our experience with experts elsewhere in life is that we have to seek them out, and once we find them they are objective in applying their expertise, and throughout the exchange there's the assumption that the matter at hand is actually important and so we will act accordingly and we won't need the expert to coach or motivate us to take action. The way direct response marketing uses external pressure to encourage action -- a short-term, transactional stance -- is in direct conflict with the normal assumptions around genuine expertise.
+
+Do we want short term/transactional expertise? Sometimes, but generally we do not.
+
+
+
 - Practical issues
 	- The timing, volume, and cadence with which DR is often delivered is at odds with the way senior managers manage their time and attention. DR timeline expectations are also often out of step with the reality of the kind of people who would be economic buyers of world-class expertise.
 	- It's just (maybe?) more efficient (not just from a time perspective, but a conservation of status perspective) for a senior manager to get information for a decision by delegating the research, getting referrals from peers, or attending an event
