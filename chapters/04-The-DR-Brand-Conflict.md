@@ -26,23 +26,39 @@ Direct response marketing signals a need to sell something we wouldn't already b
 
 Direct response marketing suggests we are manufacturing an artificial sort of demand.
 
-Direct response marketing also signals that the business is focused on short term transactional relationships [^Hat tip Frank McClung for surfacing this in a discussion]. Direct response marketing often uses a tone of pressure, urgency, and even fear to push the recipient towards responding or buying. 
+Direct response marketing also signals that the business is focused on short term transactional relationships [^Hat tip Frank McClung for surfacing this in a helpful discussion]. Direct response marketing often uses a tone of pressure, urgency, and even fear to push the recipient towards responding or buying. 
 
-Our experience with experts elsewhere in life is that we have to seek them out, and once we find them they are objective in applying their expertise, and throughout the exchange there's the assumption that the matter at hand is actually important and so we will act accordingly and we won't need the expert to coach or motivate us to take action. The way direct response marketing uses external pressure to encourage action -- a short-term, transactional stance -- is in direct conflict with the normal assumptions around genuine expertise.
+Our experience with experts elsewhere in life is that we have to seek them out, and once we find them they are objective in applying their expertise, and throughout the exchange there's the assumption that the matter at hand is *actually* important and so we will act accordingly and we won't need the expert to coach or motivate us to take action. The way direct response marketing uses external pressure to encourage action -- a short-term, transactional stance -- is in direct conflict with the normal assumptions around genuine expertise.
 
 Do we want short term/transactional expertise? Sometimes, but generally we do not.
 
+## Practical Issues
 
+The timing, volume, and cadence with which direct response marketing is often delivered is at odds with the way senior managers deploy their time and attention. Colloquially: they're too busy for this shit.
 
-- Practical issues
-	- The timing, volume, and cadence with which DR is often delivered is at odds with the way senior managers manage their time and attention. DR timeline expectations are also often out of step with the reality of the kind of people who would be economic buyers of world-class expertise.
-	- It's just (maybe?) more efficient (not just from a time perspective, but a conservation of status perspective) for a senior manager to get information for a decision by delegating the research, getting referrals from peers, or attending an event
-- A heavy, high-pressure DR response tone amplifies all of these conflicts between DR and the promise of expertise
-- Why brand doesn't conflict
-	- A posture of (perhaps extreme) generosity is more compatible with the genre expectations around expertise
-	- A mode of sharing that uses more "expensive media" (talks involving travel, other hook-ins to institutions, etc.) is more compatible with the genre expectations around expertise.
-	- Builds trust faster
-		- This might be more of a happy coincidence between the tools of brand marketing and lead gen approaches with high trust velocity than an inherent trust in brand marketing in general.
-- This troublesome gap: stuff that's important, but the awareness isn't there. You have to create a bridge from the existing awareness to action on something new/untested/unknown. That's Seth Godin's "changing the culture" style marketing. The institutional support won't be there for this, so it suggests you use DR tools because those are often the default toolset for "outsiders" operating without institutional support. This doesn't mean brand marketing can't work here, it's just harder since you need to at least partially leverage institutions (ex: convince a conf organizer to let you give a different kind of talk).
-	- How do you navigate this gap?
-		- Not sure I have an answer for this! :(
+Direct response marketing timeline expectations are also often out of step with the reality of the kind of people who would be economic buyers of world-class expertise. Colloquially: they're focused on big, important, long-term shit, not short-term transactional troubleshooting.
+
+Senior managers have a multitude of concerns, but two are relevant here. 1) Time efficiency and 2) conservation of status[^"Conservation of status" means avoiding doing stuff that diminishes status and authority, and that means delegating certain tasks that are "beneath" the manager's position]. Both of these concerns make it less likely a senior manager will pay attention to direct response marketing. If they face an important decision, they are more likely to delegate what they consider lower-level research, get referrals from peers, or attend an event meant for them and their peers.
+
+A heavy, high-pressure direct response marketing response tone amplifies all of these conflicts between direct response marketing and the promise of expertise.
+
+## Why Brand Marketing Is Largely Free Of These Conflicts
+
+Brand marketing is largely free of conflicts between our genre expectations of experts and the realities of brand marketing. Why?
+
+First, a posture of (perhaps extreme) generosity is more compatible with the genre expectations around expertise. Remember our earlier assumption that some experts are solving important mysteries? They share what they've learned in the course of their "detective work" in order to attract future investment in that work. Experts doing this repeatedly over time trains us to expect experts to share.
+
+A mode of sharing that uses more "expensive media" [^Expensive media might be speaking that involves travel, an extremely well-produced podcast, a regular column in a high-status publication, and so on.] is more compatible with the genre expectations around expertise. We expect experts to be knowledgeable enough about the culture they seek to impact (remember cultural awareness is a hallmark of brand marketing) to choose institutions, venues, and publications that can help them create maximum impact.
+
+Finally, brand marketing builds trust more {TODO: what's the right idea here? Cautiously? Gradually? Respectfully? Broadly?} than direct response marketing. Brand marketing usually integrates with cultural institutions that are already trusted, gives gifts that are more genuinely generous, and takes risks that direct response marketers avoid.
+
+## The Bootstrapping Gap
+
+There's a good match between the genre expectations around expertise and the realities of brand marketing. Except for this one troublesome area: stuff that's important, but the market awareness isn't there yet.
+
+{TODO: a few relatable examples}
+
+ Notes: You have to create a bridge from the existing awareness to action on something new/untested/unknown. That's Seth Godin's "changing the culture" style marketing. The institutional support won't be there for this, so it suggests you use direct response marketing tools because those are often the default toolset for "outsiders" operating without institutional support. This doesn't mean brand marketing can't work here, it's just harder since you need to at least partially leverage institutions (ex: convince a conf organizer to let you give a different kind of talk).
+
+- How do you navigate this gap?
+	- Not sure I have an answer for this! :(
