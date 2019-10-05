@@ -25,13 +25,13 @@ And most of us have seen the archetypical form of brand marketing, Superbowl com
 
 https://youtu.be/Q51iAWN1oY8
 
-None of this stuff is what brand marketing for small consultancies looks like. But it is all art with a logo on it.
+None of this stuff is what brand marketing for small consultancies looks like. But it _is_ all art with a logo on it.
 
 Brand marketing for small-size consultancies is also art with a logo on it. It is expensive relative to direct response marketing. It is potentially inefficient relative to direct response marketing. But it is not a Superbowl commercial. And -- critically -- it is not in tension with the expectations around expertise.
 
 ## Tools
 
-As with direct response marketing, brand marketing tends to make use of a certain set of tools. As a quick reminder, the tools of direct response marketing are: Clear calls to action, forms, gated content assets, low-priced product(s) as segmentation mechanism, events as a front-end to promoting something, and email sequences. [^1] {TODO: add the stragglers}
+As with direct response marketing, brand marketing tends to make use of a certain set of tools. As a quick reminder, the tools of direct response marketing are: Clear calls to action, forms, gated content assets, low-priced product(s) as segmentation mechanism, events as a front-end to promoting something, email sequences, long-form sales copy, and moneyback guarantees. [^1]
 
 Here are the tools of brand marketing:
 
@@ -45,7 +45,7 @@ Have any of these lodged in your memory?
 
 This is how brand marketing functions as a gift. It gives more than it takes. 
 
-Direct response marketing "gifts" -- things like lead magnets and content upgrades and "free bonuses" bundled with info products -- are not given as freely. Calling them gifts, in fact, is pretty disingenuous.
+Direct response marketing "gifts" -- things like lead magnets and content upgrades and "free bonuses" bundled with info products -- are not given as freely. There's almost always the requirement of an email address in return, with the implication that you will be marketed at following providing your email address. Calling this arrangement a gift is pretty disingenuous.
 
 Brand marketing, on the other hand, sometimes gives what could truly be thought of as gifts. Not always, of course. Some brand marketing efforts are not very good gifts. And some are just sloppy efforts at selling something under the guise of making a gift for the culture. But brand marketing generally trades in the currency of gifts.
 
@@ -56,29 +56,31 @@ In _our_ world, that of the small consultant, brand marketing gifts can look lik
 - A very good <podcast series> 
 - An email list like Corey Quinn's <Last Week in AWS>
 
+A truly good gift is one we're delighted with because the giver combined their affection for us with creativity. This is true in brand marketing, and in life.
+
 ### Impactful experiences
 
-One way in particular that you can give a gift to the group you serve is through an impactful experience. In fact, it's the relevance and impactful nature of a gift that makes it valuable in the first place. Small, forgettable brand marketing gifts are small and forgettable because they weren't very relevant or impactful.
+One way in particular that you can give a gift to the group you serve is through an impactful experience. In fact, it's the _relevance_ and _impactful nature_ of gifts that make them valuable in the first place. Small, forgettable brand marketing gifts are small and forgettable because they weren't very relevant or impactful.
 
-An impactful experience from my life: reading Blair Enns' _The Win Without Pitching Manifesto_. At the time Blair published it as a series of pages on his website -- for free -- in addition to letting you pay for more convenient packagings of the book, so at the time I paid nothing for it. Yet, it totally rewired how I thought about certain things and inspired me to make some courageous choices. Reading it was an impactful experience.
+Here's an impactful experience from my life: reading Blair Enns' _The Win Without Pitching Manifesto_. At the time Blair published it as a series of pages on his website -- for free -- in addition to letting you pay for more convenient packagings of the book, so at the time I paid nothing for it. Yet, it totally rewired how I thought about certain things and inspired me to make some courageous choices. For Blair, publishing it was at least partially brand marketing work, and for me, reading it was an impactful experience.
 
 ### Reach & repetition
 
-Brand marketing will attempt to saturate our awareness. This happens through maximizing reach and making use of repetition.
+Brand marketing will seek to saturate our awareness. This happens by maximizing reach and making use of repetition.
 
 In using the tools of reach and repetition, brand marketing may sacrifice focus. Trading away focus to gain reach would almost never happen (intentionally, anyway) with a direct response marketing campaign. In the direct response world, reaching "unresponsive" prospects would be seen as wasteful, and it would reduce some short-term oriented KPI.
 
-A quick example: imagine that airlines made a practice of trying to identify passengers that are flying for business purposes. So maybe they segment their customer base, and look for those flying business class and/or those whose ticket seems to have been purchased by a business, and identify those folks as likely business travelers. (This doesn't sound all that farfetched a use of "data exhaust", does it?)
+A quick example: imagine that airlines made a practice of trying to identify passengers that are flying for business purposes. So maybe they segment their customer list, and look for those flying business class and/or those whose ticket seems to have been purchased by a business, and identify those folks as likely business travelers. (This doesn't sound like a farfetched a use of "data exhaust", does it?)
 
-Accenture wants to reach business travelers. They have a choice. They can buy display ad space to have their brand marketing ads hung on the walls of airports. These posters and murals will certainly be seen by some business travelers and a lot of non-business travelers. Or, they can rent a list of business travelers from the airlines and directly contact those people, likely reaching a much higher percentage of business travelers. This is brand vs. direct response marketing (though I'd argue the posters I've seen on airport walls aren't much of a gift and so aren't very good brand marketing).
+Accenture wants to reach business travelers. They have a choice. a) They can buy display ad space to have their brand marketing ads hung on the walls of airports. These posters and murals will certainly be seen by some business travelers and a lot of non-business travelers. Or, b) they can rent a list of business travelers from the airlines and directly contact those people, likely reaching a much higher percentage of business travelers. This is brand vs. direct response marketing. [^2]
 
-This is an interesting example because not every person who walks through an airport could possibly be an Accenture client. So Accenture is trading focus for reach. With many brands (shoe brands, for example), this trade makes sense. Every human is a potential shoe brand customer, so every human having positive feelings about Nike's products makes some kind of sense for Nike. 
+This is an interesting example because not every person who walks through an airport could possibly be an Accenture client. So by going with the posters rather than the rented list, Accenture is trading focus for reach. With many brands (shoe brands, for example), this trade makes sense. Every human is a potential shoe brand customer, so every human having positive feelings about Nike's products makes some kind of sense for Nike. 
 
-But focus and reach are not all that matter here. Signals matter too. Part of the signal Accenture sends by having posters and murals in airports is: "we're a well-known consulting company. If you happen to need one of those, you might contact us." This is the functional part of brand marketing's signaling.
+But focus and reach are not all that matter here. *Signals* matter too. Part of the signal Accenture sends by having posters and murals in airports is: "we're a well-known consulting company. If you happen to need one of those, you might contact us." This is the functional part of brand marketing's signaling.
 
 The rest of the signal they're sending is: "we're doing so freaking well that we can afford to be wasteful with our advertising budget. If you happen to need a consulting company, you might want to contact the one that is so big and profitable that they can spend advertising dollars wastefully." This is the _status_ part. This is the same reason some services firms need an expensive office. It ain't because the fancy office makes the work better!
 
-I believe but can't prove that the "no one got fired for hiring IBM" mindset applies even at the small end of the company size spectrum. So when our prospective clients see us using marketing that is somewhat "wasteful" (ex: taking time away from client work, getting on a plane and flying to speak at an event to share an impactful message), we send the same signal Accenture is sending with their airport advertising and certain firms are sending with their expensive office leases.
+I believe but can't prove that the "no one got fired for hiring IBM" mindset applies even at the small end of the company size spectrum. So when our prospective clients see us using marketing that is somewhat "wasteful" (ex: taking time away from client work, getting on a plane and flying to speak at an event to share an impactful message), we send the same status signal Accenture is sending with their airport advertising and certain firms are sending with their expensive office leases.
 
 ### Broadcast platforms
 
@@ -90,7 +92,7 @@ You can't know this with any certainty ahead of time. So your talk at that confe
 
 @TODO: Make sure to point out that brand marketing tends to ride on top of the "platform" of existing institutions. (I feel this but don't know how to prove it)
 
-## The genre expectations of brand marketing
+## Genre expectations
 
 Just like direct response marketing has a sort of genre "feel" to it, so does brand marketing.
 
@@ -104,23 +106,25 @@ But at the same time, brand marketing exudes a feeling of "Company X is doing so
 
 Brand marketing is culturally aware. That's how it gives gifts! It's aware of what would and would not be valued by the culture, and so quite often the gifts that brand marketing gives are connected to what's happening _now_ in the culture. That's what makes those gifts relevant.
 
-As of this writing in late 2019, a talk that makes sense of how the tech world could constructively handle events like those involving Epstein, the MIT Media Lab, and Richard Stallman would be a culturally-aware gift. If the talk came from a tech-focused consulting or PR firm, we'd understand they probably have a business motive in giving that talk, but we'd experience the insight and sense-making in the talk as an act of generosity, and one that is aware of what is troubling or threatening to the culture today. This cultural awareness increases the value of the gift.
+As of this writing in late 2019, a talk that makes sense of how the tech world could constructively handle events like those involving Epstein, the MIT Media Lab, and Richard Stallman would be a culturally-aware gift. If the talk came from a tech-focused consulting or PR firm, we'd understand they probably have a business motive in giving that talk, but we'd experience the insight and sense-making in the talk as an act of generosity, and one that is aware of what is troubling or threatening to the culture today. This cultural awareness increases the value and impact of the gift.
 
 Direct response marketing tends to be less culturally aware. As well-known direct marketer Gary Bencivenga put it: problems are markets. 
 
-Many problems are not cultures. Alcohol addiction has created a culture of recovery, embodied by the institution of AA. AA is problem-as-culture. But is there a similar cultural institution around addition to nicotine? Maybe, but not that I'm aware of. I've never heard of Smokers Anonymous. 
+If the problem defines a culture, then a focus on a problem might be culturally aware. However, many problems are not cultures. 
 
-Many problems have no institutionalized culture, and therefore no platform for brand marketing to integrate with.
+Alcohol addiction has created a culture of recovery, embodied by the institution of AA. AA is problem-as-culture. But is there a similar cultural institution around addition to nicotine? Maybe, but not that I'm aware of. I've never heard of Smokers Anonymous. 
+
+Many problems have no institutionalized culture, and therefore no cultural platform or institution(s) for brand marketing to integrate with.
 
 ### Aspirational focus
 
-Brand marketing often has an aspirational focus. The US Army's "Be all you can be" campaign is a clear example of this. Just imagine how direct response marketing would attempt to reach the same goal of (I presume) recruiting more people to volunteer for service in the Army. Direct response marketing might:
+Brand marketing often has an aspirational focus. The US Army's "Be all you can be" campaign is a clear example of this. Just imagine how direct response marketing would attempt to reach the same goal of recruiting more people to volunteer for service in the Army. Direct response marketing might:
 
 - Focus on how expensive college education is, and how service in the Army can help pay for a college education.
 - Focus on how many poor or rural areas in the US lack job prospects, and how service in the Army can lead to acquisition of marketable skills.
 - Focus on how socially isolating life can be, and how service in the Army leads to lifelong friendships.
 
-The "Be all you can be" campaign _hints at_ some of these issues, but it does so in the context of an aspirational, uplifting message about personal achievement and transcending your limitations.
+The "Be all you can be" campaign _hints at_ some of these issues, but it does so in the larger context of an aspirational, uplifting message about personal achievement and transcending your limitations.
 
 Brand marketing tends to shift the focus away from problems and towards aspirations or solutions.
 
@@ -145,10 +149,9 @@ CTAs may be present in brand marketing, but they won't be forceful. They'll tend
 
 Another reason why brand marketing will often not have a CTA, or have only a soft, general CTA: the time horizon over which the marketing is expected to work is much longer than direct response marketing. Years; not weeks or months.
 
-Over that longer time horizon, you may have produced a portfolio of gifts for those you are trying to reach, and the "residue" of that portfolio has created brand power. That brand power comes from you or your name being associated with solving some problem, or creating some desired state. 
+Over that longer time horizon, you may have produced a portfolio of gifts for those you are trying to reach, and the "residue" of that portfolio has created brand power. That brand power comes from you or your business name being associated with solving some problem, or creating some desired state. 
 
-This time horizon thing is also why direct response marketing can feel so high-pressure. It is! The results of a direct response campaign are expected in weeks or months rather than years, and one way to achieve that goal is to... apply pressure.
-
+This time horizon thing is also why direct response marketing can feel so high-pressure compared to direct response marketing. It is! The results of a direct response campaign are expected in weeks or months rather than years, and one way to achieve that goal is to... apply pressure.
 
 ## Bootstrapping
 
@@ -169,5 +172,7 @@ As with everything, you need to evaluate brand vs. direct response marketing in 
 @TODO
 
 [^1]:	.
+
+[^2]:	Although I'd argue the posters I've seen on airport walls aren't much of a gift and so aren't very good brand marketing
 
 [1]:	https://www.google.com/search?q=cta+button&client=safari&hl=en-us&source=lnms&tbm=isch&sa=X&ved=0ahUKEwis2%5C_KS%5C_ebkAhUUFjQIHWjvCkkQ%5C_AUIESgB&biw=1366&bih=866&dpr=2
