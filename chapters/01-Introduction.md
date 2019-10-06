@@ -6,7 +6,7 @@ A consultant, living on word of mouth and referrals, decides they need to "do ma
 
 There are two ways that consultant can connect and build trust with prospects outside of referrals and word of mouth: direct response marketing or brand marketing. I'd bet money that the consultant chooses direct response marketing, and most times I'd win if someone bet against me.
 
-After reading this short guidebook, you'll know better than to bet against me here, and you'll understand why choosing direct response marketing -- it's often chosen without knowledge of the downstream consequences -- is necessarily a short term, utilitarian choice that must later give way to choosing brand marketing.
+After reading this short guidebook, you'll know why not to bet against me here, and you'll understand why choosing direct response marketing, which is often chosen without knowledge of the downstream consequences, is necessarily a short term, utilitarian choice that must later give way to choosing brand marketing.
 
 If our new-to-marketing consultant cultivates genuine expertise, at some point the perceived value of their expertise will be undermined by their use of direct response tools. They'll have chosen a marketing approach that conflicts with the growth of their business, and they'll need to change.
 
@@ -20,7 +20,7 @@ This book is for self-made experts. We're the ones who will need to cross a chas
 
 I'm going to help you fully understand brand and direct response marketing shortly. Right now, let's start with some definitions:
 
-- **Brand marketing**: art with a logo on it.
+- **Brand marketing**: Art with a logo on it.
 - **Direct response marketing**: A button or form with a funnel behind it.
 
 These definitions are constructed in a playful way to make them memorable and sticky, but they also express useful, serious ideas.
@@ -29,13 +29,13 @@ Let's see if these definitions help you with a quick quiz.
 
 Q: Is email marketing brand or direct response marketing?
 
-A: It can be either. It can be art with a logo on it. And it can -- and very often is -- an opt-in form with a funnel behind it. Even the same email list can function in both modes.
+A: It can be either. It can be art with a logo on it. And it can -- and very often is -- an opt-in form with a funnel behind it. Even the same email list can function in both modes at different times.
 
 Q: Is giving a talk at a conference brand or direct response marketing?
 
 A: Again, it could be either. It could be an artful sharing of expertise with a logo (your personal brand, in this case) woven throughout it. Or, it could be designed to efficiently obtain contact information from a segment of the audience and then feed that contact info into a digital marketing funnel. Or, it could be both.
 
-By the way, don't get thrown off by an overly-specific interpretation of the word "art" when you think about brand marketing. I don't mean visual art, music, poetry, etc. I mean _an appealing or challenging gift to a culture_.
+By the way, don't get thrown off by an overly-specific interpretation of the word "art" when you think about brand marketing. I don't mean visual art, music, poetry, etc. Brand marketing art is _an appealing or challenging gift to a culture_.
 
 ## Onward
 
