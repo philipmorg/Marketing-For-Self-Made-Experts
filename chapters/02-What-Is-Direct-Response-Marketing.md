@@ -2,7 +2,7 @@
 
 Direct response marketing is a button or form with a funnel behind it.
 
-It's useful to think about direct response marketing as a set of concrete _tools_, and as a basket of ideas and feelings, which I'll discuss as the _genre expectations_ around direct response marketing. We'll use that same lens to examine brand marketing.
+It's useful to think about direct response marketing as a set of concrete _tools_, and also as a basket of ideas and feelings, which I'll discuss as the _genre expectations_ around direct response marketing. We'll use that same lens to examine brand marketing.
 
 ## The Tools
 
@@ -39,6 +39,10 @@ x
 Lots of products and services include a moneyback guarantee. When you see a moneyback guarantee listed as a _primary feature_ of the product/services, you're probably seeing direct response marketing in action.
 
 Again, that's not an exhaustive list, but it's one that I hope helps you recognize direct response marketing in action. Onward to the genre expectations.
+
+### Maybe: Engineered pricing
+
+Notes: using low or no-marginal-cost bonuses to justify more profitable price tiers.
 
 ## Genre expectations
 
@@ -109,15 +113,13 @@ Of course, copywriters gonna copywrite, and some will greatly exaggerate pain po
 
 https://youtu.be/qM4zMofsI7w
 
-(This video had me doubled over in laughter. It's incredible, and I think it even has a brief cameo from Joe Biden. ;) )
+(This video had me doubled over in laughter)
 
 One of the ways pain gets amplified in direct response marketing is to focus on the _emotional_ aspects of the pain. Direct response copywriters will tell you that _all decisions_ are emotional first, backed up by a post hoc logical process. That may be true. [^2] But the problem is not how decisions are _actually_ made, the problem is how we believe we make decisions. And if your audience fancies themselves to be logical thinkers, a heavily emotional tone in direct response marketing almost certainly will be problematic.
 
 ### Curiosity
 
-Sometimes you'll see direct response marketing make use of curiosity. That's part of what I'm not proud of in my sales page for The Positioning Manual.
-
-The apotheosis of curiosity in direct response marketing is the clickbait headline. Some examples, courtesy of <this article>:
+Sometimes you'll see direct response marketing make use of curiosity. The apotheosis of curiosity in direct response marketing is the clickbait headline. Some examples, courtesy of <this article>:
 
 - The Hot New Phone Everybody Is Talking About
 - You Won’t Believe What Happened Next
@@ -125,11 +127,11 @@ The apotheosis of curiosity in direct response marketing is the clickbait headli
 - See How One Man Made $$$ In His Bedroom
 - Health Insurance Companies HATE This New Trick
 
-This kind of attempt at increasing curiosity is based on leaving out a critical detail to make something more interesting than it really is. Once you start noticing this technique, you see it every freaking where on the Internet.
+This kind of attempt at increasing curiosity is based on leaving out a critical detail to make something more interesting than it really is. Once you start noticing this technique, you see it absolutely everywhere on the Internet.
 
-I think marketers let themselves off the hook for using curiosity to waste people's time and money by considering the satisfaction of the curiosity -- rather than an actual benefit to someone's business -- as a form of value. "Clicking/buying will let them satisfy their curiosity, which is a benefit to them!" Sure, for a $10 book that's sort of fine. For something more costly I don't think that's sufficient justification for the misuse of curiosity.
+I think marketers let themselves off the hook for using curiosity to waste people's time and money by considering the satisfaction of the curiosity -- rather than an actual benefit to someone's business -- as a form of value. "Clicking/buying will let them satisfy their curiosity, which is a benefit to them, even if the book wasn't all that great." Sure, for a $10 book that's sort of fine. For something more costly I don't think that's sufficient justification for the misuse of curiosity.
 
-It's also possible -- easy, in fact! -- to phrase a curiosity-inducing sentence or paragraph in a way that overstates the benefit in question. These kind of obvious overstatements might  be effective on rubes, but more critical prospects will have a negative reaction.
+It's also possible -- easy, in fact! -- to phrase a curiosity-inducing sentence or paragraph in a way that overstates the benefit in question. These kind of obvious overstatements might be effective on rubes, but more critical prospects will have a negative reaction.
 
 ### Benefits
 
@@ -141,7 +143,7 @@ Are the benefits described in factual or emotional language? Is an extra 20% in 
 
 I've seen firsthand a situation where someone used direct response marketing with the benefits tone control cranked way up who then _blamed the customer_ if the customer failed to realize the promised benefits. This is lazy and unethical behavior.
 
-I definitely understand the impulse to simplify marketing messages. Done correctly, this helps. It maximizes the chances that a message will penetrate and land in a noisy, somewhat chaotic communication environment.
+I definitely understand the impulse to *simplify* marketing messages. Done correctly, this helps. It maximizes the chances that a message will penetrate and land in a noisy, somewhat chaotic communication environment.
 
 Done incorrectly, simplification of a direct response marketing message leads to overstating benefits and stripping out too much context, leaving the marketing with an unrealistic promised benefit at its core.
 
@@ -151,9 +153,9 @@ These direct response "tone knobs" all relate to one idea which, in the world of
 
 There are just soooo many ways persuasion can be used well or slightly misused by accident or outright intentionally abused. 
 
-Different outcomes here are based on 1) whether you are placing your client's best interest equal to or ahead of yours, 2) whether you understand the kind of tone that your clients will and won't accept in marketing, and finally (and somewhat speculatively) the time horizon over which you are thinking (desire for impact over a short or long term).
+Different outcomes here are based on 1) whether you are placing your client's best interest equal to or ahead of yours, 2) whether you understand the kind of tone that your clients will and won't accept in marketing, and finally 3) the time horizon over which you are thinking (desire for impact over a short or long term).
 
-My guidance on tone can be boiled down to this test, for which I have Jonathan Stark to thank: "Would you do it that way if your client was a beloved family member?"
+My guidance on tone can be boiled down to this simple test, for which I have Jonathan Stark to thank: "Would you do it that way if your client was a beloved family member?"
 
 ## Summary
 

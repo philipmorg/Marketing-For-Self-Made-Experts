@@ -10,7 +10,7 @@ After reading this short guidebook, you'll know better than to bet against me he
 
 If our new-to-marketing consultant cultivates genuine expertise, at some point the perceived value of their expertise will be undermined by their use of direct response tools. They'll have chosen a marketing approach that conflicts with the growth of their business, and they'll need to change.
 
-This book is not meant to help you "do marketing". It's meant to help you think about how to connect and build trust with prospective clients from the beginning to the end of a career where self-made expertise drives both client outcomes and the consultant's increasing status and profitability.
+This book is not meant to help you "do marketing". It's meant to help you think about how to connect and build trust with prospective clients from the beginning to the end of a career where self-made expertise drives both client outcomes and the consultant's increasing authority and profitability.
 
 If you're like most consultants delivering genuine expertise, you'll probably start out using direct response marketing, gain momentum using that mode of marketing, and then face a tension between continued success and your chosen mode of marketing. I wrote this book so you can navigate this path without crashing headlong into a frustrating tension that saps your momentum for several years.
 
@@ -35,7 +35,7 @@ Q: Is giving a talk at a conference brand or direct response marketing?
 
 A: Again, it could be either. It could be an artful sharing of expertise with a logo (your personal brand, in this case) woven throughout it. Or, it could be designed to efficiently obtain contact information from a segment of the audience and then feed that contact info into a digital marketing funnel. Or, it could be both.
 
-Don't get thrown off by an overly-specific interpretation of the word "art" when you think about brand marketing. I don't mean visual art, music, poetry, etc. I mean _an appealing or challenging gift to a culture_.
+By the way, don't get thrown off by an overly-specific interpretation of the word "art" when you think about brand marketing. I don't mean visual art, music, poetry, etc. I mean _an appealing or challenging gift to a culture_.
 
 ## Onward
 

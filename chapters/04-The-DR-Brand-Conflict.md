@@ -1,5 +1,7 @@
 # The Conflict Between Brand & Direct Response Marketing
 
+{NOTE: add in the idea of authority as expertise + trust (ht Bob L.) and talk about how DR can undermine authority by reducing trust, even though the expertise remains the same. This trust-reduction is the mechanism by which authority is undermined.}
+
 The genre expectations around valuable expertise conflict with direct response marketing. In fact, if you're a genuine expert who uses direct response marketing, you can undermine the perceived value of your own expertise. Brand marketing is largely free from these kinds of conflicts.
 
 Let's explore why this is.
@@ -8,7 +10,7 @@ Let's explore why this is.
 
 Our perception of experts is that they 1) do important stuff that takes a lot of experience to do well or they 2) solve new important mysteries. Or both.
 
-In the case of #1, their marketing involves integrating with an existing river of demand and existing institutionally-enabled discovery mechanisms. [^The most currently well-known institutionally-enabled discovery mechanism might be TED talks. TED is the institution, and their audience's respect for TED's disciplined curation makes TED a useful discovery mechanism for interesting or compelling ideas.]
+In the case of #1, their marketing involves integrating with an existing river of demand and existing institutionally-enabled discovery mechanisms. [^A currently well-known institutionally-enabled discovery mechanism is TED talks. TED is the institution, and their audience's respect for TED's disciplined curation makes TED a useful discovery mechanism for interesting or compelling ideas.]
 
 For #2, the expert starts doing the work themselves and the "marketing" is sharing what they've done with others who get excited about the expert's discoveries. This excitement leads to some form of investment[^The investment could be consulting work, direct investment, or other forms of monetizing the expert's work of innovation or discovery.] that sustains the expert's work.
 
@@ -16,7 +18,7 @@ There's an assumption at play here: experts would not invest in their expertise 
 
 This assumption is why some who are *not* genuine experts *say* that they are experts. They are hoping to attract the kind of opportunity that genuine experts enjoy. The problem happens when these folks use direct response marketing. Their self-labeling as an expert sends one signal ("I have lots of opportunity") while their marketing sends a different signal ("I need to use inexpensive, efficient marketing to capture every ounce of opportunity that might be out there.")
 
-A second assumption is at play in the genre expectations around expertise: the importance of the expertise is self-evident. Prospects will get exposed to the work and naturally respond because the importance becomes self-evident to them.
+A second assumption is at play in the genre expectations around expertise: the importance of the expertise is self-evident. Prospects will get exposed to the work and naturally respond because the importance is self-evident.
 
 This genre assumption sets up another conflict. If the supposed expert is using a form of marketing that works very hard to highlight problems and pains and to portray the expert as a solution for those problems/pains, are they *really* an expert? In other words, if they were really an expert, wouldn't it be obvious that they are?
 
