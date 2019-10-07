@@ -44,7 +44,7 @@ Direct response marketing is often trying to eliminate or reduce the role of hig
 
 That's why direct response marketing often makes use of long form sales copy. Direct response marketing is generally operating outside the infrastructure of established distribution channels and institutions, so the job of selling falls to the marketer, and direct response marketers want to do this selling efficiently at scale. To efficiently push prospects from unaware to aware to prospect to customer, long form sales copy is used.
 
-### A_sequence of emails_ that describes some pain or problem, spends time vivifying that pain/problem, and pitches a solution to that pain/problem.
+### A _sequence of emails_ that describes some pain or problem, spends time vivifying that pain/problem, and pitches a solution to that pain/problem.
 
 If you take long form sales copy, which is generally arranged vertically in a single very long column on a single sales page and divide it up into multiple emails, you have an email sequence that has the job of selling something, or pushing a prospect closer to taking some desired action.
 
