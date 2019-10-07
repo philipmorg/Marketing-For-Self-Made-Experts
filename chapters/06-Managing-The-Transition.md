@@ -1,6 +1,15 @@
-Managing the DR to brand transition
+# Managing the DR to brand transition
 
 - Remember: You'll probably start with DR marketing for the reasons articulated above. Simply put: brand marketing won't give you the leverage you need -- and DR will -- at a bootstrapping stage.
+- A not-untypical consultant's DR marketing system
+	- Email course or lead magnet(s) that collect email addresses and add those to a list. IoW, gated assets.
+	- A way of promoting that/those gated assets
+	- A way of identifying "the Terminators".
+	- A way of fast-track selling to Terminators
+	- A philosophy of using CTAs that effects the very design of your site
+	- A tone in your communication that focuses on problems, perhaps in a somewhat heavy-handed way
+	- Possibly: products or other digital assets that are part of a "ladder", these products possibly using engineered pricing.
+	- Other detritus: landing pages, etc.
 - Is the transition as simple as changing how you deploy CTAs, or simply dropping CTAs altogether? It might start with that, but I don't think it's as simple as that.
 - Some marketing is ephemeral, and some is not. Your investment in DR marketing will leave a "residue" of various assets and the intertia of doing things a certain way. 
 	- If you decide to do things differently, that residue and inertia doesn't just go away. You'll have cleanup to do.
@@ -35,4 +44,6 @@ A: When you can get on a stage for 45 minutes with minimal or no props and no CT
 
 You can think of it like earning your way out of direct response land.
 
-In my business, I jumped prematurely from direct response to brand marketing tools and methods. And I did so in an "all or nothing" way. I now need to retreat a bit, lay the groundwork for a proper execution of this transition, and then earn my way out of direct response land.
+You might not do the no-CTA talk. The specifics of how you do it might be different. For example, you might do a no-CTA _book_ that has similar dynamics to the talk.
+
+But the idea is the same: you'll have a message that's so powerful that it drowns out the inefficiencies of brand marketing; it overpowers those inefficiencies.
