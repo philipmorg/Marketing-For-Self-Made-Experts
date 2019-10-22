@@ -56,7 +56,7 @@ Lots of products and services include a moneyback guarantee. When you see a mone
 
 A client or customer going on record with a description of, endorsement of, or praise for your product/services is a testimonial. Because direct response marketing seeks to build trust in a rapid and scalable manner, it tends to make use of testimonials. Testimonials in direct response marketing are used the way case studies are used in other forms of marketing. "See, this stuff works!"
 
-### Engineered pricing
+### _Engineered pricing_
 
 Direct response marketing, when used to sell something, often uses "engineered pricing". To an extend, all pricing is engineered to achieve some purpose: volume, revenue, or profitability. But direct response marketing often uses somewhat elaborate pricing models involving price tiers, bonuses, and so-called choice architecture or buying psychology. Additionally, direct response marketing will often use a focus on some painful problem and artificial scarcity to justify super-premium pricing.
 
