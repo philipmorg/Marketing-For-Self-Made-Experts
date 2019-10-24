@@ -57,3 +57,4 @@ That's not a cherry-picked list. I could keep going, but you get the point. Ther
 Direct response marketing's default position leads to a myopia about brand marketing and makes it feel like, when the tension between direct response marketing and expertise comes to a head, we're trapped in a blind alley with no way out.
 
 At the same time, brand marketing seems to be only for big companies using mass market media. It's not. It just needs to be adapted for self-made experts. There needs to be a defined migration path from direct response to brand marketing. The next chapter covers that.
+

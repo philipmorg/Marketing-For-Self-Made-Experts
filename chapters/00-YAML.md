@@ -10,9 +10,6 @@ abstract: |
 fontsize: 13pt
 urlcolor: blue
 output:
-  tufte::tufte_handout:
-    toc: true
-    toc_depth: 3
   tufte::tufte_html:
     toc: true
     toc_depth: 3

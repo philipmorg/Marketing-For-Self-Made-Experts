@@ -94,7 +94,7 @@ The genre of heavy metal music prepares you to hear distorted electric guitars, 
 
 A big part of the genre expectations around direct response marketing is the tone used in the marketing. I think of these like the "tone knobs" on an electric guitar amplifier.
 
-There are a million ways the tone of direct response marketing can be good, crappy, or used as a lever to achieve the goals of the marketing, which is really one singular goal: to get a desired response -- a button click, a form filled out, or some other action taken. So I won't be able to, nor should I, cover every single "tone knob" you can manipulate in direct response marketing. That said, many of you -- me included! -- benefit from using a certain amount of direct response marketing in our businesses. [^And critically, our clients also benefit from us using direct response marketing because it helps efficiently match their problems with our solution. If we were the only side of the relationship that benefits but it harms our clients, then of course we avoid the temptation of benefitting at their expense.] Direct response is, in many contexts, a useful tool. Since it's a mere tool, it's all about _how we use it_. And tone is a big part of that "how we use it" question. So let's talk about some of the more common direct response tone knobs.
+There are a million ways the tone of direct response marketing can be good, crappy, or used as a lever to achieve the goals of the marketing, which is really one singular goal: to get a desired response -- a button click, a form filled out, or some other action taken. So I won't be able to, nor should I, cover every single "tone knob" you can manipulate in direct response marketing. That said, many of you -- me included! -- benefit from using a certain amount of direct response marketing in our businesses. ^[And critically, our clients also benefit from us using direct response marketing because it helps efficiently match their problems with our solution. If we were the only side of the relationship that benefits but it harms our clients, then of course we avoid the temptation of benefitting at their expense.] Direct response is, in many contexts, a useful tool. Since it's a mere tool, it's all about _how we use it_. And tone is a big part of that "how we use it" question. So let's talk about some of the more common direct response tone knobs.
 
 ### Urgency
 
@@ -125,7 +125,7 @@ Of course, copywriters gonna copywrite, and some will greatly exaggerate pain po
 
 https://youtu.be/qM4zMofsI7w
 
-One of the ways pain gets amplified in direct response marketing is to focus on the _emotional_ aspects of the pain. Direct response copywriters will tell you that _all decisions_ are emotional first, backed up by a post hoc logical process. That may be true. [^Or this old saw about emotional decisions may not be true. I can't know without doing my own due diligence. Every time I get exposed to a supposedly science-based, surprising "fact" that can be expressed with no ambiguity or subtlety in a headline, I get real suspicious that the underlying science is flimsy or the translation to a headline has done violence to the nuance of the underlying science.]
+One of the ways pain gets amplified in direct response marketing is to focus on the _emotional_ aspects of the pain. Direct response copywriters will tell you that _all decisions_ are emotional first, backed up by a post hoc logical process. That may be true. ^[Or this old saw about emotional decisions may not be true. I can't know without doing my own due diligence. Every time I get exposed to a supposedly science-based, surprising "fact" that can be expressed with no ambiguity or subtlety in a headline, I get real suspicious that the underlying science is flimsy or the translation to a headline has done violence to the nuance of the underlying science.]
 
 The problem is not how decisions are _actually_ made, the problem is how we believe we make decisions. And if your audience fancies themselves to be logical thinkers, a heavily emotional tone in direct response marketing almost certainly will be problematic.
 
@@ -176,3 +176,4 @@ You'll probably notice that much of the marketing you've seen on the Internet us
 As a high-leverage, low-cost bootstrapping tool for the self-made expert, direct response marketing is a godsend.
 
 As you'll begin to see, direct response marketing works differently than brand marketing, and can start to create more problems than it solves for the evolving self-made expert.
+

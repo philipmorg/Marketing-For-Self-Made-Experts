@@ -42,3 +42,4 @@ By the way, don't get thrown off by an overly-specific interpretation of the wor
 I have never felt like more words makes a book better. The rest of this book will maintain the lean, efficient treatment of the topic at hand. If you can read this book in one sitting, I'll be delighted.
 
 Onward to a deeper understanding of our "villain with a heart of gold" here: direct response marketing.
+

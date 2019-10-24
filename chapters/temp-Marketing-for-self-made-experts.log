@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.18)  22 OCT 2019 06:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.18)  24 OCT 2019 06:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -798,7 +798,7 @@ e
 
 Class tufte-handout Warning: Proper spacing of small-caps letters has not been 
 set up.
-This message occurred on input line 190.
+This message occurred on input line 192.
 
 [2]
 
@@ -813,11 +813,11 @@ See the tufte-handout class documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.197 ...o action}}\label{a-clear-call-to-action}}
+l.201 ...o action}}\label{a-clear-call-to-action}}
                                                    
 Here is how much of TeX's memory you used:
- 13065 strings out of 494111
- 184983 string characters out of 6170576
+ 13067 strings out of 494111
+ 185026 string characters out of 6170576
  281449 words of memory out of 5000000
  16963 multiletter control sequences out of 15000+600000
  11432 words of font info for 26 fonts, out of 8000000 for 9000

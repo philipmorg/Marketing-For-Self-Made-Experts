@@ -15,3 +15,4 @@ As you do so, the thrifty direct response mindset can serve you well in the earl
 I hope having a model for thinking about all of this helps make sense of the world of marketing. Don't let it intimidate you! 
 
 Progress is the new perfection.
+

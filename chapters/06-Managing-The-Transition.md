@@ -66,3 +66,4 @@ You can think of it like earning your way out of direct response land.
 You might not do the no-CTA talk. The specifics of how you do it might be different. For example, you might do a no-CTA _book_ that has similar dynamics to the talk.
 
 But the idea is the same: you'll have a message that's so powerful that it drowns out the inefficiencies of brand marketing; it overwhelms those inefficiencies with such _substance_ that the means of marketing becomes transparent and the power of the message is the only thing your prospects notice.
+

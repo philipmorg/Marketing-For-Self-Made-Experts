@@ -58,7 +58,9 @@ By the way, don't get thrown off by an overly-specific interpretation of the wor
 
 I have never felt like more words makes a book better. The rest of this book will maintain the lean, efficient treatment of the topic at hand. If you can read this book in one sitting, I'll be delighted.
 
-Onward to a deeper understanding of our "villain with a heart of gold" here: direct response marketing.# What is Direct Response Marketing?
+Onward to a deeper understanding of our "villain with a heart of gold" here: direct response marketing.
+
+# What is Direct Response Marketing?
 
 Direct response marketing is a button or form with a funnel behind it.
 
@@ -235,7 +237,9 @@ You'll probably notice that much of the marketing you've seen on the Internet us
 
 As a high-leverage, low-cost bootstrapping tool for the self-made expert, direct response marketing is a godsend.
 
-As you'll begin to see, direct response marketing works differently than brand marketing, and can start to create more problems than it solves for the evolving self-made expert.# What Is Brand Marketing?
+As you'll begin to see, direct response marketing works differently than brand marketing, and can start to create more problems than it solves for the evolving self-made expert.
+
+# What Is Brand Marketing?
 
 Brand marketing is art with a logo on it. Not the kind of art you'd find in a gallery. Instead, brand marketing is the kind of art that is a gift or a challenge to a specific culture.
 
@@ -417,7 +421,9 @@ At some point in the past, I remember mocking advertising with no clear CTA. I r
 
 I don't mean to portray direct response vs brand marketing as a binary either/or decision. It's not. Even the "Be all you can be" campaign had a direct response mechanism at the end. And you'll find other elements of direct response marketing (like a focus on problems) in brand marketing. I recently saw a Chromebook ad that used humor to agitate the pain of not having computer backups. It had the tone of brand marketing (the gift of a quick laugh) but the content of direct response marketing (a focus on a problem, in this case someone dropping their un-backed-up laptop computer).
 
-Eventually most self-made experts will need to embrace the tools and genre expectations of brand marketing.# The Conflict Between Expertise & Direct Response Marketing
+Eventually most self-made experts will need to embrace the tools and genre expectations of brand marketing.
+
+# The Conflict Between Expertise & Direct Response Marketing
 
 The genre expectations around valuable expertise conflict with direct response marketing. In fact, if you're a genuine expert who uses direct response marketing, you can undermine the perceived value of your own expertise. Brand marketing is largely free from these kinds of conflicts.
 
@@ -498,7 +504,9 @@ Real but unproven expertise + unaware market + cautious institutions; how do you
 
 ## Summary
 
-Genuine expertise eventually conflicts with direct response marketing. Because direct response marketing signals need and manipulation, it undermines the trust that is so critical to the authority experts need to create impact.# Why Do We Use Direct Response Marketing?
+Genuine expertise eventually conflicts with direct response marketing. Because direct response marketing signals need and manipulation, it undermines the trust that is so critical to the authority experts need to create impact.
+
+# Why Do We Use Direct Response Marketing?
 
 If direct response marketing eventually undermines our authority, why do we use it at all?
 
@@ -556,7 +564,9 @@ That's not a cherry-picked list. I could keep going, but you get the point. Ther
 
 Direct response marketing's default position leads to a myopia about brand marketing and makes it feel like, when the tension between direct response marketing and expertise comes to a head, we're trapped in a blind alley with no way out.
 
-At the same time, brand marketing seems to be only for big companies using mass market media. It's not. It just needs to be adapted for self-made experts. There needs to be a defined migration path from direct response to brand marketing. The next chapter covers that.# Managing The Transition
+At the same time, brand marketing seems to be only for big companies using mass market media. It's not. It just needs to be adapted for self-made experts. There needs to be a defined migration path from direct response to brand marketing. The next chapter covers that.
+
+# Managing The Transition
 
 You'll decide one day to "do marketing". You'll almost certainly start using the direct response marketing tools, operating within the genre expectations of direct response. 
 
@@ -623,7 +633,9 @@ You can think of it like earning your way out of direct response land.
 
 You might not do the no-CTA talk. The specifics of how you do it might be different. For example, you might do a no-CTA _book_ that has similar dynamics to the talk.
 
-But the idea is the same: you'll have a message that's so powerful that it drowns out the inefficiencies of brand marketing; it overwhelms those inefficiencies with such _substance_ that the means of marketing becomes transparent and the power of the message is the only thing your prospects notice.# Coda
+But the idea is the same: you'll have a message that's so powerful that it drowns out the inefficiencies of brand marketing; it overwhelms those inefficiencies with such _substance_ that the means of marketing becomes transparent and the power of the message is the only thing your prospects notice.
+
+# Coda
 
 My not-at-all secret agenda is to support the cultivation of self-made expertise.
 
@@ -640,3 +652,4 @@ As you do so, the thrifty direct response mindset can serve you well in the earl
 I hope having a model for thinking about all of this helps make sense of the world of marketing. Don't let it intimidate you! 
 
 Progress is the new perfection.
+
